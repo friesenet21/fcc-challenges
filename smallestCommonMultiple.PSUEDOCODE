@@ -1,0 +1,6 @@
+input: array of numbers a to b ascending
+var F = 0, A = []
+while(??){
+A.push input[F]+input[F]
+F++
+}

@@ -1,0 +1,6 @@
+input: number N,
+       L array of Roman letters I,V,X,L,C,D,M
+       empty array X
+for int i in N length decreasing:
+    if i < 4
+      add L[i] times i to X

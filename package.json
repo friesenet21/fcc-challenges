@@ -1,0 +1,15 @@
+{
+  "name": "fcc_challenges",
+  "version": "1.0.0",
+  "description": "fcc challenges",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "friesenet21",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.5.2"
+  },
+  "devDependencies": {}
+}
